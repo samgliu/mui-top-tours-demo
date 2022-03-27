@@ -30,7 +30,7 @@ const Tour = () => {
         <Typography variant="h6" component="h4" marginTop={3}>
           About this ticket
         </Typography>
-        <Typography variant="paragraph" component="p" marginTop={3}>
+        <Typography variant="body1" component="p" marginTop={3}>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
